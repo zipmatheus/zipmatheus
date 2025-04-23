@@ -49,7 +49,8 @@ Também possuo background em **integração de sistemas corporativos**, com foco
 - Scraping de produtos e cupons
 - Painel de controle com interface amigável
 - Integração com Telegram
-- Dark mode e layout responsivo
+- Dark mode* (em ajuste).
+- Layout responsivo
 - SEO otimizado
 
 🚫 Código privado – mas o projeto está 100% funcional e online.
