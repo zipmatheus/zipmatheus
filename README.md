@@ -1,19 +1,88 @@
-<h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Olá! 👋 Eu sou o Matheus Barbosa</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **zipmatheus@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zipmatheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zipmatheus" height="30" width="40" /></a>
-<a href="https://instagram.com/zipmatheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zipmatheus" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zipmatheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zipmatheus" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer</b> • Next.js | Node.js | JavaScript | React <br>
+  APIs | Web Scraping | Integração de Sistemas | Automação
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zipmatheus&show_icons=true&locale=en&layout=compact" alt="zipmatheus" /></p>
+### 📬 Como falar comigo
 
+- 📧 Email: [zipmatheus@hotmail.com](mailto:zipmatheus@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zipmatheus)
+- 📸 [Instagram](https://www.instagram.com/zipmatheus)
+- 🌐 [UaiPromo](https://uaipromo.com.br)
+
+---
+
+### 🚀 Sobre mim
+
+Sou um desenvolvedor full stack apaixonado por tecnologia e automações. Tenho experiência em projetos reais como o [**UaiPromo**](https://uaipromo.com.br), um site de promoções com scraping, integração com APIs, banco de dados MySQL e deploy em VPS com PM2 + NGINX.
+
+Também possuo background em **integração de sistemas corporativos**, com foco em SOA, API Gateway, automações com Shell Script, Python e Jenkins. Atualmente, estou migrando para o desenvolvimento full stack e buscando novas oportunidades no mercado tech.
+
+---
+
+### 🧠 Skills e Tecnologias
+
+#### 💻 Principais Stacks
+- **Front-end**: React.js, Next.js, TailwindCSS, HTML5, CSS3
+- **Back-end**: Node.js, Express, Python, Shell Script
+- **Banco de Dados**: MySQL, PostgreSQL, Oracle
+- **Outros**: Puppeteer, PM2, NGINX, Jenkins, Git
+
+#### ☁️ Conhecimentos em:
+- Web scraping e automações
+- Integração com APIs REST
+- Deploys em ambientes VPS
+
+---
+
+### 🧩 Projeto em Destaque
+
+#### 🔗 [UaiPromo](https://uaipromo.com.br)
+> Plataforma de cupons e ofertas desenvolvida do zero por mim.
+
+**Tecnologias:** Next.js, Node.js, MySQL, Puppeteer, Tailwind, PM2, NGINX  
+**Funcionalidades:**
+- Scraping de produtos e cupons
+- Painel de controle com interface amigável
+- Integração com Telegram
+- Dark mode e layout responsivo
+- SEO otimizado
+
+🚫 Código privado – mas o projeto está 100% funcional e online.
+
+---
+
+### 🤝 Projetos em colaboração
+
+#### 🕊️ Anjos Anônimos – ONG
+> Projeto social voltado para apoio a famílias em situação de vulnerabilidade. Estou colaborando no desenvolvimento e manutenção das soluções digitais da ONG.
+
+**Função:** Desenvolvedor voluntário  
+**Tecnologias:** HTML, CSS, JavaScript, TailwindCSS, PHP  
+**Responsabilidades:**
+- Desenvolvimento e manutenção do site institucional  
+- Implementação de funcionalidades no front-end e back-end  
+- Suporte técnico para otimizar processos internos da ONG
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zipmatheus&show_icons=true&theme=radical&hide=prs"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zipmatheus&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🤝 Vamos conversar?
+
+Estou disponível para colaborar em projetos, freelas, ou oportunidades de trabalho. Fique à vontade para me chamar pelo [LinkedIn](https://www.linkedin.com/in/zipmatheus) ou email.
+
+---
+
+🧠 *Princípios são inegociáveis.*
